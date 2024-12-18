@@ -1,4 +1,4 @@
-# Docker Compose exercise 2
+# Docker Compose exercise
 
 This is a Docker compose exercise made for the PXL Docker Compose course.
 
